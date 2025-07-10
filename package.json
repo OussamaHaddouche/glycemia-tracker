@@ -25,6 +25,7 @@
   "devDependencies": {
     "@biomejs/biome": "2.1.1",
     "@types/chart.js": "^4.0.1",
+    "solid-devtools": "^0.34.3",
     "tailwindcss": "^4.1.11",
     "typescript": "~5.8.3",
     "vite": "^6.3.5",
